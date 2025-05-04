@@ -12,6 +12,7 @@
 ```
 ❌ 请输入子命令，可用命令：status/save/shutdown/sessions/options/setup
 ```
+2.发送 /Factory setup [您的服务器地址] [管理员密码] 即可
 ### 那么如何使用这些子命令呢?
 - 发送 /Factory status 会返回:
 ```
